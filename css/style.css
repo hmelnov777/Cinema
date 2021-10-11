@@ -49,12 +49,15 @@ body {
   display: flex;
   align-items: center;
 }
-
+.name {
+  cursor: pointer;
+}
 .avatar {
   width: 33px;
   height: 33px;
   border-radius: 50px;
   margin-left: 11px;
+  cursor: pointer;
 }
 
 .film {
